@@ -4,7 +4,8 @@ Aplicação Go Lang minimalista que imprime "Full Cycle Rocks!!" ao ser executad
 
 ## Imagem Docker
 
-Publicada no Docker Hub: [erickmachoski/fullcycle-rocks](https://hub.docker.com/r/erickmachoski/fullcycle-rocks)
+- **Docker Hub:** [erickmachoski/fullcycle-rocks](https://hub.docker.com/r/erickmachoski/fullcycle-rocks)
+- **GitHub:** [ttkwtx/fullcycle-rocks](https://github.com/ttkwtx/fullcycle-rocks)
 
 ```bash
 docker run erickmachoski/fullcycle-rocks
